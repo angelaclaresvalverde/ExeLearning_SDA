@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520211945G33BLV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520211945J8KJ4R</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de aprendizaje: El mercado laboral de nuestro entorno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ángela Clares Valverde </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Guía para la realización del producto final: &apos;El mercado laboral de nuestro entorno&apos;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779302031774</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpee7ps2-gzuwblxta</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Comenzamos nuestro proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comenzamos nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comenzamos nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Comenzamos nuestro proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps2-gzuwblxta</odePageId>
+      <odeBlockId>block-1779015542859-f46pali00</odeBlockId>
+      <blockName>EL MERCADO LABORAL DE NUESTRO ENTORNO</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps2-gzuwblxta</odePageId>
+          <odeBlockId>block-1779015542859-f46pali00</odeBlockId>
+          <odeIdeviceId>idevice-1779015542855-03dytinmc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;">Centro de interés o temática</span><br />El centro de interés de esta Situación de Aprendizaje es el mercado de trabajo y la realidad laboral del entorno cercano del alumnado. A través de una pequeña investigación, el alumnado analizará aspectos relacionados con el empleo, el desempleo, la formación y los perfiles profesionales más demandados en su entorno.</p>
+<p><span style="text-decoration: underline;">Nivel al que va dirigido</span><br />1.º de Bachillerato, en la materia de Economía.</p>
+<p><span style="text-decoration: underline;">Temporalización aproximada</span><br />La actividad se desarrollará durante 3 sesiones de 55 minutos y requerirá además trabajo autónomo fuera del aula para la difusión de encuestas y recopilación de respuestas.</p>
+<ul>
+<li>Primera sesión: explicación de la actividad y diseño de una encuesta digital.</li>
+<li>Trabajo autónomo: difusión de la encuesta y recogida de datos.</li>
+<li>Segunda sesión: análisis e interpretación de los resultados obtenidos realizando una infografía digital.<br /></li>
+<li>Tercera sesión: Exposición de una infografía digital con las conclusiones finales.</li>
+</ul>
+<p><span style="text-decoration: underline;">Materia o materias implicadas</span><br />La materia principal implicada es Economía, aunque también se trabajan contenidos relacionados con la Competencia Digital, el tratamiento de datos y la comunicación visual.</p>
+<p><span style="text-decoration: underline;">Idioma</span><br />Español.</p>
+<p><span style="text-decoration: underline;">Descripción general de lo que se pretende que el alumnado aprenda o trabaje</span><br />Con esta Situación de Aprendizaje se pretende que el alumnado comprenda el funcionamiento básico del mercado laboral a partir de una investigación sobre su entorno cercano. Para ello, deberán diseñar y difundir una encuesta online utilizando herramientas digitales como Google Forms y posteriormente analizar los datos obtenidos.</p>
+<p>A partir de la información recopilada, el alumnado elaborará una infografía digital mediante Canva en la que reflejarán gráficamente las principales conclusiones de su investigación.</p>
+<p>Además de trabajar contenidos propios de Economía relacionados con el empleo y el mercado de trabajo, la actividad favorece el desarrollo de la competencia digital, el análisis crítico de datos reales, el trabajo cooperativo y la comunicación visual de información.</p>
+<p><span style="text-decoration: underline;">Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1</span><br />La elección de esta propuesta parte de la reflexión realizada en la rutina de pensamiento de la tarea 1.1, donde se valoró la importancia de plantear actividades más prácticas, cercanas a la realidad del alumnado y apoyadas en el uso de herramientas digitales.</p>
+<p>La temática del mercado laboral se considera especialmente adecuada para el alumnado de 1.º de Bachillerato porque conecta directamente con situaciones reales y cercanas a su contexto social y económico. Esto favorece un aprendizaje más significativo y motivador, permitiendo relacionar los contenidos teóricos de Economía con problemas y situaciones reales de su entorno.</p>
+<p>Asimismo, el uso de herramientas digitales para crear encuestas, analizar datos y elaborar una infografía permite trabajar la competencia digital de manera práctica y funcional. La actividad también fomenta la autonomía, la colaboración entre iguales y la capacidad del alumnado para interpretar y comunicar información económica de forma visual y comprensible.</p>
+<p>Por último, la propuesta combina trabajo en el aula y tareas autónomas fuera de ella, adaptándose de forma realista al tiempo disponible en 1.º de Bachillerato y favoreciendo una participación activa del alumnado durante todo el proceso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779015542855-03dytinmc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\">Centro de interés o temática</span><br />El centro de interés de esta Situación de Aprendizaje es el mercado de trabajo y la realidad laboral del entorno cercano del alumnado. A través de una pequeña investigación, el alumnado analizará aspectos relacionados con el empleo, el desempleo, la formación y los perfiles profesionales más demandados en su entorno.</p>\n<p><span style=\"text-decoration: underline;\">Nivel al que va dirigido</span><br />1.º de Bachillerato, en la materia de Economía.</p>\n<p><span style=\"text-decoration: underline;\">Temporalización aproximada</span><br />La actividad se desarrollará durante 3 sesiones de 55 minutos y requerirá además trabajo autónomo fuera del aula para la difusión de encuestas y recopilación de respuestas.</p>\n<ul>\n<li>Primera sesión: explicación de la actividad y diseño de una encuesta digital.</li>\n<li>Trabajo autónomo: difusión de la encuesta y recogida de datos.</li>\n<li>Segunda sesión: análisis e interpretación de los resultados obtenidos realizando una infografía digital.<br /></li>\n<li>Tercera sesión: Exposición de una infografía digital con las conclusiones finales.</li>\n</ul>\n<p><span style=\"text-decoration: underline;\">Materia o materias implicadas</span><br />La materia principal implicada es Economía, aunque también se trabajan contenidos relacionados con la Competencia Digital, el tratamiento de datos y la comunicación visual.</p>\n<p><span style=\"text-decoration: underline;\">Idioma</span><br />Español.</p>\n<p><span style=\"text-decoration: underline;\">Descripción general de lo que se pretende que el alumnado aprenda o trabaje</span><br />Con esta Situación de Aprendizaje se pretende que el alumnado comprenda el funcionamiento básico del mercado laboral a partir de una investigación sobre su entorno cercano. Para ello, deberán diseñar y difundir una encuesta online utilizando herramientas digitales como Google Forms y posteriormente analizar los datos obtenidos.</p>\n<p>A partir de la información recopilada, el alumnado elaborará una infografía digital mediante Canva en la que reflejarán gráficamente las principales conclusiones de su investigación.</p>\n<p>Además de trabajar contenidos propios de Economía relacionados con el empleo y el mercado de trabajo, la actividad favorece el desarrollo de la competencia digital, el análisis crítico de datos reales, el trabajo cooperativo y la comunicación visual de información.</p>\n<p><span style=\"text-decoration: underline;\">Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1</span><br />La elección de esta propuesta parte de la reflexión realizada en la rutina de pensamiento de la tarea 1.1, donde se valoró la importancia de plantear actividades más prácticas, cercanas a la realidad del alumnado y apoyadas en el uso de herramientas digitales.</p>\n<p>La temática del mercado laboral se considera especialmente adecuada para el alumnado de 1.º de Bachillerato porque conecta directamente con situaciones reales y cercanas a su contexto social y económico. Esto favorece un aprendizaje más significativo y motivador, permitiendo relacionar los contenidos teóricos de Economía con problemas y situaciones reales de su entorno.</p>\n<p>Asimismo, el uso de herramientas digitales para crear encuestas, analizar datos y elaborar una infografía permite trabajar la competencia digital de manera práctica y funcional. La actividad también fomenta la autonomía, la colaboración entre iguales y la capacidad del alumnado para interpretar y comunicar información económica de forma visual y comprensible.</p>\n<p>Por último, la propuesta combina trabajo en el aula y tareas autónomas fuera de ella, adaptándose de forma realista al tiempo disponible en 1.º de Bachillerato y favoreciendo una participación activa del alumnado durante todo el proceso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7ps6-u4bga7vaq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital y derechos en internet</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital y derechos en internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad v2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seguridad digital y derechos en internet</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps6-u4bga7vaq</odePageId>
+      <odeBlockId>block-1779017769190-f88470his</odeBlockId>
+      <blockName>Seguridad digital y derechos en internet</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps6-u4bga7vaq</odePageId>
+          <odeBlockId>block-1779017769190-f88470his</odeBlockId>
+          <odeIdeviceId>idevice-1779017769188-pyjtaazfx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestra a continuación información sobre datos personales y garantías de derechos digitales</p>
+<p><img src="{{context_path}}/content/resources/Infografía Historia Del Internet Futurista Azul.png" width="338" height="717" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779017769188-pyjtaazfx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestra a continuación información sobre datos personales y garantías de derechos digitales</p>\n<p><img src=\"{{context_path}}/content/resources/Infografía Historia Del Internet Futurista Azul.png\" width=\"338\" height=\"717\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7ps7-uam5a12t1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps7-uam5a12t1</odePageId>
+      <odeBlockId>block-1779217020363-b6x1myp3p</odeBlockId>
+      <blockName>Herramienta digital para el producto final de la SDA</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps7-uam5a12t1</odePageId>
+          <odeBlockId>block-1779217020363-b6x1myp3p</odeBlockId>
+          <odeIdeviceId>idevice-1779217020363-9pas4heq3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del producto final de la Situación de Aprendizaje “El mercado laboral de nuestro entorno”, la herramienta digital que propongo utilizar es <strong>Canva.</strong></p>
+<p>El objetivo de su uso es que el alumnado elabore una infografía digital donde presenten los resultados de su investigación sobre el mercado laboral a partir de datos obtenidos mediante encuestas online.</p>
+<p>He elegido esta herramienta por su gran versatilidad, ya que permite trabajar de forma sencilla con gráficos, imágenes e ინფografías, facilitando la comunicación visual de información económica de manera clara y atractiva.</p>
+<p>Además, es una herramienta accesible y gratuita, que puede utilizarse tanto en el aula como fuera de ella desde distintos dispositivos (ordenador, tablet o móvil), lo cual es importante teniendo en cuenta la disponibilidad habitual de recursos digitales en el centro y la necesidad de flexibilidad en el acceso.</p>
+<p>También resulta adecuada para el nivel de 1.º de Bachillerato, ya que el alumnado presenta una competencia digital diversa, y Canva permite un uso intuitivo sin necesidad de conocimientos técnicos avanzados, al mismo tiempo que ofrece opciones más complejas para quienes quieran profundizar.</p>
+<p>Por último, favorece el trabajo colaborativo, ya que permite la edición compartida en tiempo real, lo que encaja con la metodología de la Situación de Aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779217020363-9pas4heq3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del producto final de la Situación de Aprendizaje “El mercado laboral de nuestro entorno”, la herramienta digital que propongo utilizar es <strong>Canva.</strong></p>\n<p>El objetivo de su uso es que el alumnado elabore una infografía digital donde presenten los resultados de su investigación sobre el mercado laboral a partir de datos obtenidos mediante encuestas online.</p>\n<p>He elegido esta herramienta por su gran versatilidad, ya que permite trabajar de forma sencilla con gráficos, imágenes e ინფografías, facilitando la comunicación visual de información económica de manera clara y atractiva.</p>\n<p>Además, es una herramienta accesible y gratuita, que puede utilizarse tanto en el aula como fuera de ella desde distintos dispositivos (ordenador, tablet o móvil), lo cual es importante teniendo en cuenta la disponibilidad habitual de recursos digitales en el centro y la necesidad de flexibilidad en el acceso.</p>\n<p>También resulta adecuada para el nivel de 1.º de Bachillerato, ya que el alumnado presenta una competencia digital diversa, y Canva permite un uso intuitivo sin necesidad de conocimientos técnicos avanzados, al mismo tiempo que ofrece opciones más complejas para quienes quieran profundizar.</p>\n<p>Por último, favorece el trabajo colaborativo, ya que permite la edición compartida en tiempo real, lo que encaja con la metodología de la Situación de Aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7ps8-iclnpv29i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas para realizar el proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para realizar el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para realizar el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps8-iclnpv29i</odePageId>
+      <odeBlockId>block-1779302186582-bjlz3pv2t</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps8-iclnpv29i</odePageId>
+          <odeBlockId>block-1779302186582-bjlz3pv2t</odeBlockId>
+          <odeIdeviceId>idevice-1779302186581-bkuk31d0j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestran en las siguientes páginas herramientas destinadas tanto para docentes como para el alumnado. Los recursos se han seleccionado a través de dos herramientas diferentes de curación de contenidos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779302186581-bkuk31d0j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestran en las siguientes páginas herramientas destinadas tanto para docentes como para el alumnado. Los recursos se han seleccionado a través de dos herramientas diferentes de curación de contenidos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7ps8-q30pr0bo0</odePageId>
+  <odeParentPageId>page-mpee7ps8-iclnpv29i</odeParentPageId>
+  <pageName>Herramientas para el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps8-q30pr0bo0</odePageId>
+      <odeBlockId>block-1779217596799-18ejbl05q</odeBlockId>
+      <blockName>Recursos para la situación de aprendizaje</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps8-q30pr0bo0</odePageId>
+          <odeBlockId>block-1779217596799-18ejbl05q</odeBlockId>
+          <odeIdeviceId>idevice-1779217596798-prnzzuqnc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se muestran una serie de recursos que resultan de utilidad para la realización del producto final. La curación de contenidos se ha realizado mediante la herramienta Padlet, y contiene información sobre: </p>
+<ul>
+<li>Tutorial básico de Canva</li>
+<li>Tutorial de Google Forms</li>
+<li>Vídeo: ¿Qué es el mercado laboral?</li>
+<li>Herramienta para trabajo colaborativo y organización</li>
+<li>Recurso para aprender a analizar datos</li>
+<li>Consejos para realizar encuestas</li>
+</ul>
+<p>Se muestran estos recursos en la siguiente página: <a href="https://padlet.com/angelaclaresvalverde/recursos-para-la-sda-el-mercado-laboral-de-nuestro-entorno-u653di5wzkvoaxmt" target="_blank" rel="noopener" title="">Recursos para la situación de aprendizaje </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779217596798-prnzzuqnc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestran una serie de recursos que resultan de utilidad para la realización del producto final. La curación de contenidos se ha realizado mediante la herramienta Padlet, y contiene información sobre: </p>\n<ul>\n<li>Tutorial básico de Canva</li>\n<li>Tutorial de Google Forms</li>\n<li>Vídeo: ¿Qué es el mercado laboral?</li>\n<li>Herramienta para trabajo colaborativo y organización</li>\n<li>Recurso para aprender a analizar datos</li>\n<li>Consejos para realizar encuestas</li>\n</ul>\n<p>Se muestran estos recursos en la siguiente página: <a href=\"https://padlet.com/angelaclaresvalverde/recursos-para-la-sda-el-mercado-laboral-de-nuestro-entorno-u653di5wzkvoaxmt\" target=\"_blank\" rel=\"noopener\" title=\"\">Recursos para la situación de aprendizaje </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7ps9-v0p19cg5s</odePageId>
+  <odeParentPageId>page-mpee7ps8-iclnpv29i</odeParentPageId>
+  <pageName>Herramientas para docentes</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas para docentes</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps9-v0p19cg5s</odePageId>
+      <odeBlockId>block-1779217914533-70mtf2jjm</odeBlockId>
+      <blockName>Recursos docentes</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps9-v0p19cg5s</odePageId>
+          <odeBlockId>block-1779217914533-70mtf2jjm</odeBlockId>
+          <odeIdeviceId>idevice-1779217914533-z3aw2qv0u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestran a continuación recursos y herramientas para la gestión de aula:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAwazfpEAA41_W3S0lw==" target="_blank" rel="noopener" title="">Recursos digitales docentes</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779217914533-z3aw2qv0u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestran a continuación recursos y herramientas para la gestión de aula:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAwazfpEAA41_W3S0lw==\" target=\"_blank\" rel=\"noopener\" title=\"\">Recursos digitales docentes</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7ps9-woyntql9s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal de la SDA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de la SDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de la SDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal de la SDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7ps9-woyntql9s</odePageId>
+      <odeBlockId>block-1779218149989-2xs62hfvi</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7ps9-woyntql9s</odePageId>
+          <odeBlockId>block-1779218149989-2xs62hfvi</odeBlockId>
+          <odeIdeviceId>idevice-1779218149987-qili2dt5x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestra a continuación la línea temporal de la Situación de Aprendizaje:</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Infografía Cronológica Línea de Tiempo Empresa Profesional Moderna Multicolor.png" width="419" height="1048" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779218149987-qili2dt5x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestra a continuación la línea temporal de la Situación de Aprendizaje:</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Infografía Cronológica Línea de Tiempo Empresa Profesional Moderna Multicolor.png\" width=\"419\" height=\"1048\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779302883978-6c99y3ark</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779302883978-6c99y3ark</odePageId>
+      <odeBlockId>block-1779302931411-ekrevyr4j</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779302883978-6c99y3ark</odePageId>
+          <odeBlockId>block-1779302931411-ekrevyr4j</odeBlockId>
+          <odeIdeviceId>idevice-1779302931409-qqjikegow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestra en el siguiente documento los criterios de evaluación asociados a las actividades</p>
+<p><a href="{{context_path}}/content/resources/Tarea 6.1. Ángela Clares Valverde.pdf" title="Tarea 6.1. Ángela Clares Valverde.pdf">{{context_path}}/content/resources/Tarea 6.1. Ángela Clares Valverde.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779302931409-qqjikegow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestra en el siguiente documento los criterios de evaluación asociados a las actividades</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 6.1. Ángela Clares Valverde.pdf\" title=\"Tarea 6.1. Ángela Clares Valverde.pdf\">{{context_path}}/content/resources/Tarea 6.1. Ángela Clares Valverde.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7psa-zttsmfxyi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7psa-zttsmfxyi</odePageId>
+      <odeBlockId>block-1779218934708-dix2zxex0</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7psa-zttsmfxyi</odePageId>
+          <odeBlockId>block-1779218934708-dix2zxex0</odeBlockId>
+          <odeIdeviceId>idevice-1779218934705-c15a3k49r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación de nuestra SDA utilizamos los siguientes instrumentos de evaluación:</p>
+<p><strong>1. RÚBRICA DE EVALUACIÓN</strong><br />Este instrumento se utilizará en la fase final del proyecto, una vez el alumnado haya elaborado la infografía con las conclusiones del trabajo. Permite valorar el producto final y la capacidad de síntesis y análisis económico.</p>
+<p>La información se obtendrá a partir de la entrega en Classroom y de la exposición oral en el aula. Durante este momento se evaluará la capacidad del alumnado para interpretar los datos obtenidos en la encuesta, relacionarlos con el mercado laboral de su entorno y comunicarlos de forma clara.</p>
+<p>Durante esta fase pueden aparecer diferencias en la calidad del producto final debido al nivel de competencia digital del alumnado. Para ello, se permitirá el trabajo cooperativo y el apoyo entre iguales durante el proceso de elaboración.</p>
+<table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 16.643%;"><strong>Criterio</strong></td>
+<td style="width: 16.643%;"><strong>0-4 Insuficiente</strong></td>
+<td style="width: 16.643%;"><strong>5-6 Suficiente</strong></td>
+<td style="width: 16.643%;"><strong>7-8 Notable</strong></td>
+<td style="width: 16.643%;"><strong> 9-10 Sobresaliente</strong><br /></td>
+<td style="width: 16.643%;"><strong>Nota</strong></td>
+</tr>
+<tr>
+<td style="width: 16.643%;">Interpretación de datos</td>
+<td style="width: 16.643%;">No interpreta los datos correctamente</td>
+<td style="width: 16.643%;"> Interpretación básica<br /></td>
+<td style="width: 16.643%;"> Interpretación correcta<br /></td>
+<td style="width: 16.643%;">Interpretación completa y bien relacionada</td>
+<td style="width: 16.643%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 16.643%;">Análisis económico</td>
+<td style="width: 16.643%;">Muy superficial o inexistente</td>
+<td style="width: 16.643%;">Análisis básico</td>
+<td style="width: 16.643%;">Buen análisis con conclusiones claras</td>
+<td style="width: 16.643%;">Análisis profundo y bien argumentado</td>
+<td style="width: 16.643%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 16.643%;">Comunicación de resultados</td>
+<td style="width: 16.643%;">Poco clara</td>
+<td style="width: 16.643%;">Clara pero simple</td>
+<td style="width: 16.643%;">Clara y ordenada</td>
+<td style="width: 16.643%;">Muy clara y bien estructurada</td>
+<td style="width: 16.643%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 16.643%;">Uso de herramientas digitales</td>
+<td style="width: 16.643%;">Muy Básico</td>
+<td style="width: 16.643%;">Correcto</td>
+<td style="width: 16.643%;">Bueno</td>
+<td style="width: 16.643%;">Creativo y eficiente</td>
+<td style="width: 16.643%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 16.643%;">Presentación visual</td>
+<td style="width: 16.643%;">Poco cuidada</td>
+<td style="width: 16.643%;">Correcta</td>
+<td style="width: 16.643%;">Atractiva</td>
+<td style="width: 16.643%;"> Muy cuidada y profesional<br /></td>
+<td style="width: 16.643%;"></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2. LISTA DE COTEJO</strong><br />Este instrumento se utiliza durante todo el desarrollo del proyecto (diseño, recogida y análisis de datos). Permite comprobar el grado de cumplimiento de las tareas intermedias.</p>
+<p>La recogida de información se realiza mediante la observación directa del trabajo en el aula y el seguimiento de los documentos compartidos en Google Drive, Google Forms y Google Sheets. Esto permite detectar dificultades en el uso de herramientas digitales o en la organización del trabajo en grupo.</p>
+<p>En caso de problemas técnicos o diferencias en el acceso a dispositivos, se contemplará el trabajo en grupo flexible, el uso del aula de informática y el apoyo entre iguales para garantizar la participación de todo el alumnado.</p>
+<table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 81.1388%;"><strong>Item</strong></td>
+<td style="width: 9.96387%;"><strong>Si</strong></td>
+<td style="width: 8.87364%;"><strong>No</strong></td>
+</tr>
+<tr>
+<td style="width: 81.1388%;">Diseña correctamente la encuesta en Google Forms</td>
+<td style="width: 9.96387%;"><br /></td>
+<td style="width: 8.87364%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 81.1388%;">Difunde la encuesta y obtiene respuestas</td>
+<td style="width: 9.96387%;"><br /></td>
+<td style="width: 8.87364%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 81.1388%;">Organiza datos en tablas o gráficos</td>
+<td style="width: 9.96387%;"><br /></td>
+<td style="width: 8.87364%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 81.1388%;">Participa activamente en el trabajo en grupo</td>
+<td style="width: 9.96387%;"><br /></td>
+<td style="width: 8.87364%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 81.1388%;">Utiliza herramientas digitales adecuadamente</td>
+<td style="width: 9.96387%;"><br /></td>
+<td style="width: 8.87364%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 81.1388%;">Respeta normas de uso responsable de datos</td>
+<td style="width: 9.96387%;"><br /></td>
+<td style="width: 8.87364%;"></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3. REGISTRO ANECDÓTICO DEL DOCENTE </strong><br />Este instrumento será utilizado por el docente durante el desarrollo del proyecto para recoger información cualitativa sobre el trabajo del alumnado en el aula.</p>
+<p>Se registrarán aspectos relevantes como la participación en el trabajo en grupo, la autonomía en el uso de herramientas digitales, la capacidad de resolución de problemas durante el desarrollo de las tareas y la actitud ante el trabajo colaborativo.</p>
+<p>La información se recogerá mediante anotaciones breves durante las sesiones de trabajo y permitirá complementar la información obtenida a través de la rúbrica y la lista de cotejo. Esto es especialmente útil para valorar aspectos que no siempre se reflejan en los productos finales, como la implicación o la evolución del alumnado.</p>
+<p>En caso de detectar dificultades recurrentes, estos registros permitirán realizar ajustes en la metodología, ofrecer apoyos específicos o reorganizar los grupos de trabajo para mejorar el desarrollo del proyecto.</p>
+<table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 19.9704%;"><strong>Fecha</strong></td>
+<td style="width: 19.9704%;"><strong>Grupo/Alumnado</strong></td>
+<td style="width: 19.9704%;"><strong>Situación observada</strong></td>
+<td style="width: 19.9704%;"><strong>Interpretación del docente</strong></td>
+<td style="width: 19.9764%;"><strong>Medidas / seguimiento</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9764%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9764%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9764%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9704%;"><br /></td>
+<td style="width: 19.9764%;"></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779218934705-c15a3k49r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación de nuestra SDA utilizamos los siguientes instrumentos de evaluación:</p>\n<p><strong>1. RÚBRICA DE EVALUACIÓN</strong><br />Este instrumento se utilizará en la fase final del proyecto, una vez el alumnado haya elaborado la infografía con las conclusiones del trabajo. Permite valorar el producto final y la capacidad de síntesis y análisis económico.</p>\n<p>La información se obtendrá a partir de la entrega en Classroom y de la exposición oral en el aula. Durante este momento se evaluará la capacidad del alumnado para interpretar los datos obtenidos en la encuesta, relacionarlos con el mercado laboral de su entorno y comunicarlos de forma clara.</p>\n<p>Durante esta fase pueden aparecer diferencias en la calidad del producto final debido al nivel de competencia digital del alumnado. Para ello, se permitirá el trabajo cooperativo y el apoyo entre iguales durante el proceso de elaboración.</p>\n<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 16.643%;\"><strong>Criterio</strong></td>\n<td style=\"width: 16.643%;\"><strong>0-4 Insuficiente</strong></td>\n<td style=\"width: 16.643%;\"><strong>5-6 Suficiente</strong></td>\n<td style=\"width: 16.643%;\"><strong>7-8 Notable</strong></td>\n<td style=\"width: 16.643%;\"><strong> 9-10 Sobresaliente</strong><br /></td>\n<td style=\"width: 16.643%;\"><strong>Nota</strong></td>\n</tr>\n<tr>\n<td style=\"width: 16.643%;\">Interpretación de datos</td>\n<td style=\"width: 16.643%;\">No interpreta los datos correctamente</td>\n<td style=\"width: 16.643%;\"> Interpretación básica<br /></td>\n<td style=\"width: 16.643%;\"> Interpretación correcta<br /></td>\n<td style=\"width: 16.643%;\">Interpretación completa y bien relacionada</td>\n<td style=\"width: 16.643%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 16.643%;\">Análisis económico</td>\n<td style=\"width: 16.643%;\">Muy superficial o inexistente</td>\n<td style=\"width: 16.643%;\">Análisis básico</td>\n<td style=\"width: 16.643%;\">Buen análisis con conclusiones claras</td>\n<td style=\"width: 16.643%;\">Análisis profundo y bien argumentado</td>\n<td style=\"width: 16.643%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 16.643%;\">Comunicación de resultados</td>\n<td style=\"width: 16.643%;\">Poco clara</td>\n<td style=\"width: 16.643%;\">Clara pero simple</td>\n<td style=\"width: 16.643%;\">Clara y ordenada</td>\n<td style=\"width: 16.643%;\">Muy clara y bien estructurada</td>\n<td style=\"width: 16.643%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 16.643%;\">Uso de herramientas digitales</td>\n<td style=\"width: 16.643%;\">Muy Básico</td>\n<td style=\"width: 16.643%;\">Correcto</td>\n<td style=\"width: 16.643%;\">Bueno</td>\n<td style=\"width: 16.643%;\">Creativo y eficiente</td>\n<td style=\"width: 16.643%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 16.643%;\">Presentación visual</td>\n<td style=\"width: 16.643%;\">Poco cuidada</td>\n<td style=\"width: 16.643%;\">Correcta</td>\n<td style=\"width: 16.643%;\">Atractiva</td>\n<td style=\"width: 16.643%;\"> Muy cuidada y profesional<br /></td>\n<td style=\"width: 16.643%;\"></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p><strong>2. LISTA DE COTEJO</strong><br />Este instrumento se utiliza durante todo el desarrollo del proyecto (diseño, recogida y análisis de datos). Permite comprobar el grado de cumplimiento de las tareas intermedias.</p>\n<p>La recogida de información se realiza mediante la observación directa del trabajo en el aula y el seguimiento de los documentos compartidos en Google Drive, Google Forms y Google Sheets. Esto permite detectar dificultades en el uso de herramientas digitales o en la organización del trabajo en grupo.</p>\n<p>En caso de problemas técnicos o diferencias en el acceso a dispositivos, se contemplará el trabajo en grupo flexible, el uso del aula de informática y el apoyo entre iguales para garantizar la participación de todo el alumnado.</p>\n<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 81.1388%;\"><strong>Item</strong></td>\n<td style=\"width: 9.96387%;\"><strong>Si</strong></td>\n<td style=\"width: 8.87364%;\"><strong>No</strong></td>\n</tr>\n<tr>\n<td style=\"width: 81.1388%;\">Diseña correctamente la encuesta en Google Forms</td>\n<td style=\"width: 9.96387%;\"><br /></td>\n<td style=\"width: 8.87364%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 81.1388%;\">Difunde la encuesta y obtiene respuestas</td>\n<td style=\"width: 9.96387%;\"><br /></td>\n<td style=\"width: 8.87364%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 81.1388%;\">Organiza datos en tablas o gráficos</td>\n<td style=\"width: 9.96387%;\"><br /></td>\n<td style=\"width: 8.87364%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 81.1388%;\">Participa activamente en el trabajo en grupo</td>\n<td style=\"width: 9.96387%;\"><br /></td>\n<td style=\"width: 8.87364%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 81.1388%;\">Utiliza herramientas digitales adecuadamente</td>\n<td style=\"width: 9.96387%;\"><br /></td>\n<td style=\"width: 8.87364%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 81.1388%;\">Respeta normas de uso responsable de datos</td>\n<td style=\"width: 9.96387%;\"><br /></td>\n<td style=\"width: 8.87364%;\"></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p><strong>3. REGISTRO ANECDÓTICO DEL DOCENTE </strong><br />Este instrumento será utilizado por el docente durante el desarrollo del proyecto para recoger información cualitativa sobre el trabajo del alumnado en el aula.</p>\n<p>Se registrarán aspectos relevantes como la participación en el trabajo en grupo, la autonomía en el uso de herramientas digitales, la capacidad de resolución de problemas durante el desarrollo de las tareas y la actitud ante el trabajo colaborativo.</p>\n<p>La información se recogerá mediante anotaciones breves durante las sesiones de trabajo y permitirá complementar la información obtenida a través de la rúbrica y la lista de cotejo. Esto es especialmente útil para valorar aspectos que no siempre se reflejan en los productos finales, como la implicación o la evolución del alumnado.</p>\n<p>En caso de detectar dificultades recurrentes, estos registros permitirán realizar ajustes en la metodología, ofrecer apoyos específicos o reorganizar los grupos de trabajo para mejorar el desarrollo del proyecto.</p>\n<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9704%;\"><strong>Fecha</strong></td>\n<td style=\"width: 19.9704%;\"><strong>Grupo/Alumnado</strong></td>\n<td style=\"width: 19.9704%;\"><strong>Situación observada</strong></td>\n<td style=\"width: 19.9704%;\"><strong>Interpretación del docente</strong></td>\n<td style=\"width: 19.9764%;\"><strong>Medidas / seguimiento</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9764%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9764%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9764%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9704%;\"><br /></td>\n<td style=\"width: 19.9764%;\"></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpee7psb-qpsl0dlfd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y autoría</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y autoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y autoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpee7psb-qpsl0dlfd</odePageId>
+      <odeBlockId>block-1779220053271-49zsr31v2</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpee7psb-qpsl0dlfd</odePageId>
+          <odeBlockId>block-1779220053271-49zsr31v2</odeBlockId>
+          <odeIdeviceId>idevice-1779220053270-d5gm0b82n</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">El mercado laboral de nuestro entorno</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ángela Clares Valverde </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
